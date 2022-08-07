@@ -4,7 +4,7 @@
 ##### *(Live Timer Commands)*
 ****
 #### ***Table of Contents:***
-> - [Wiki Home](/index.md)
+> - [Wiki Home](/README.md)
 
 #### Weekly Timers
 
